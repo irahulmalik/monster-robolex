@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monster-robolex/static/css/main.c017e9c7.chunk.css",
+    "main.js": "/monster-robolex/static/js/main.d4db47fd.chunk.js",
+    "main.js.map": "/monster-robolex/static/js/main.d4db47fd.chunk.js.map",
+    "runtime-main.js": "/monster-robolex/static/js/runtime-main.a28b6bc1.js",
+    "runtime-main.js.map": "/monster-robolex/static/js/runtime-main.a28b6bc1.js.map",
+    "static/js/2.e80c916c.chunk.js": "/monster-robolex/static/js/2.e80c916c.chunk.js",
+    "static/js/2.e80c916c.chunk.js.map": "/monster-robolex/static/js/2.e80c916c.chunk.js.map",
+    "static/js/3.8b365cc5.chunk.js": "/monster-robolex/static/js/3.8b365cc5.chunk.js",
+    "static/js/3.8b365cc5.chunk.js.map": "/monster-robolex/static/js/3.8b365cc5.chunk.js.map",
+    "index.html": "/monster-robolex/index.html",
+    "static/css/main.c017e9c7.chunk.css.map": "/monster-robolex/static/css/main.c017e9c7.chunk.css.map",
+    "static/js/2.e80c916c.chunk.js.LICENSE.txt": "/monster-robolex/static/js/2.e80c916c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a28b6bc1.js",
+    "static/js/2.e80c916c.chunk.js",
+    "static/css/main.c017e9c7.chunk.css",
+    "static/js/main.d4db47fd.chunk.js"
+  ]
+}
